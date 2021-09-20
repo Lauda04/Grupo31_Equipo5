@@ -12,12 +12,12 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #F77B67;
 }
 
 .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -25,13 +25,13 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: white;
+    color: #CFB23C;
 }
 
 .title {
     color: white;
-    background-color: gray;
+    background-color: #CFB23C;
     font-size: 25px;
     padding: 10px;
     margin: 0;
@@ -80,7 +80,7 @@ button{
     padding: 15px;
     font-size: 15px;
     border: none;
-    background-color: #333;
+    background-color: #F77B67;
     color: #fff;
     cursor: pointer;
     border-radius: 10px;
